@@ -1,7 +1,3 @@
-# INPUTS --> phrase to grandma --> string
-
-# OUTPUTS --> response --> string
-
 def speak_to_grandma(phrase)
   answer = "HUH?! SPEAK UP, SONNY!"
   if phrase == "I LOVE YOU GRANDMA!"
